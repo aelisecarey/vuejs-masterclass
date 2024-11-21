@@ -1,6 +1,6 @@
 # vue-js-masterclass-2024
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue JS Masterclass 2024
 
 ## Recommended IDE Setup
 
